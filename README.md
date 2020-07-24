@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Ro! My pronouns are she/her, and I am a Front-End Web Developer! 
+
+
 <!--
 **rojhanpaydar/rojhanpaydar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
