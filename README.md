@@ -2,6 +2,10 @@
 
 My name is Ro! My pronouns are she/her, and I am a Front-End Web Developer! 
 
+![Image of Yaktocat](https://500px.com/photo/1019304535/purpledreamfinalrough-by-ROJHAN-PAYDAR/)
+
+
+
 
 <!--
 **rojhanpaydar/rojhanpaydar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
